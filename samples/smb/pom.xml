@@ -12,9 +12,9 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring.integration.version>5.4.0</spring.integration.version>
+		<spring.integration.version>5.5.18</spring.integration.version>
 		<spring.integration.smb.version>1.0.0.RELEASE</spring.integration.smb.version>
-		<log4j.version>2.13.2</log4j.version>
+		<log4j.version>2.17.1</log4j.version>
 		<junit.version>4.12</junit.version>
 	</properties>
 
