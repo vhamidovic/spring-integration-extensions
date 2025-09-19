@@ -90,7 +90,7 @@
 		<dependency>
 			<groupId>org.springframework.integration</groupId>
 			<artifactId>spring-integration-core</artifactId>
-			<version>5.5.18</version>
+			<version>6.4.7</version>
 		</dependency>
 
 		<!-- Logging -->
